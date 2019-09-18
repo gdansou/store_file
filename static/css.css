@@ -84,4 +84,13 @@ table {
   color:#8898aa;
   background-color:#f6f9fc;
   border-color:#e9ecef;
+  text-align:right;
+}
+
+.mr-2, .mx-2 {
+    margin-right: .5rem!important;
+}
+
+.missingtable {
+  text-align:left;
 }
