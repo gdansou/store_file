@@ -39,7 +39,7 @@ table {
     margin: 0;
 }
 
-.progress {
+.progres {
     overflow: hidden;
     height: 4px;
     margin-bottom: 1em;
@@ -49,13 +49,13 @@ table {
     width: 120px;
 }
 
-.progress {
+.progres {
     font-size: .75em;
     display: flex;
     box-shadow: inset 0 0.1em 0.1em rgba(0,0,0,.1);
 }
 
-.progress-bar {
+.progres-bar {
     height: 3px;
     border-radius: 0;
     box-shadow: none;
@@ -65,7 +65,7 @@ table {
     background: linear-gradient(87deg,#f5365c 0,#f56036 100%)!important;
 }
 
-.progress-bar {
+.progres-bar {
     display: flex;
     flex-direction: column;
     transition: width .6s ease;
