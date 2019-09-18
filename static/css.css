@@ -56,7 +56,7 @@ table {
 }
 
 .progress-bar {
-    height: auto;
+    height: 3px;
     border-radius: 0;
     box-shadow: none;
 }
